@@ -6,6 +6,6 @@
 -  * Angular, Ionic, Vue & React, React Native.
 -  * Laravel, Nodejs & Expresss
 - 📫 How to reach me:
-      *Email: kasaokapapkies@gmail.com
-      *Call : 082 0404 995
+-     *Email: kasaokapapkies@gmail.com
+-     *Call : 082 0404 995
 
