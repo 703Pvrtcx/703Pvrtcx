@@ -1,5 +1,4 @@
-### Hi there 👋
-## Full Name: Kasaoka Innocent Ndhlovu
+## Kasaoka Innocent Ndhlovu 👋
 
 - 🔭 I’m currently working on e-hailing Application With Ambee
 - 💬 Ask me about: 
