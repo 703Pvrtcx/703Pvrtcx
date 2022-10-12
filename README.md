@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on e-hailing Application With Ambee
 - 💬 Ask me about: 
--  * Angular, Ionic, Vue & React, React Native.
+-  * Angular, Ionic, Vue. React & React Native.
 -  * Laravel, Nodejs & Expresss
 - 📫 How to reach me:
 -  * Email: kasaokapapkies@gmail.com
